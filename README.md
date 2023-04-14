@@ -10,3 +10,13 @@ Yehia AM Gomaa - H00
 
 Supervisor:-
 Dr. Nidhal Abdulaziz
+
+
+
+**To run Simulation**
+roslaunch go1_config gazebo.launch    
+roslaunch go1_config navigate.launch rviz:=true
+roslaunch go1_config gazebo.launch
+roslaunch sound_play soundplay_node.launch 
+rosrun go1_config sound.py
+roslaunch darknet_ros darknet_ros
