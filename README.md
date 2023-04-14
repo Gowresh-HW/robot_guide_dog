@@ -1,7 +1,7 @@
 # robot_guide_dog
-PAWfessionals,
-B31XP - Multidisciplinary Group Project,
-MSc Robotics, Heriot-Watt Univeristy, Dubai.
+PAWfessionals,    
+B31XP - Multidisciplinary Group Project,    
+MSc Robotics, Heriot-Watt Univeristy, Dubai.    
 
 Group Members:-   
 Gowresh Rajagopal - H00413256   
