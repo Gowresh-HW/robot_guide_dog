@@ -3,10 +3,10 @@ PAWfessionals,
 B31XP - Multidisciplinary Group Project,
 MSc Robotics, Heriot-Watt Univeristy, Dubai.
 
-Group Members:-
-Gowresh Rajagopal - H00413256
-Nasir Nasir-Ameen - H00
-Yehia AM Gomaa - H00
+Group Members:-   
+Gowresh Rajagopal - H00413256   
+Nasir Nasir-Ameen - H00409854   
+Yehia AM Gomaa - H00416471    
 
 Supervisor:-
 Dr. Nidhal Abdulaziz
