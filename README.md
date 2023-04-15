@@ -5,8 +5,8 @@ MSc Robotics, Heriot-Watt Univeristy, Dubai.
 
 Group Members:-   
 Gowresh Rajagopal - H00413256   
-Nasir Nasir-Ameen - H00409854   
-Yehia AM Gomaa - H00416471    
+Nasir Nasir-Ameen -  H00416471
+Yehia AM Gomaa -  H00409854  
 
 Supervisor:-
 Dr. Nidhal Abdulaziz
