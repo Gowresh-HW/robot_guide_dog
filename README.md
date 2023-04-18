@@ -1,11 +1,15 @@
 # robot_guide_dog
-PAWfessionals,    
+Heriot-Watt Univeristy, Dubai. 
+School of Engineering and Physical Sciences
+MSc. Robotics
 B31XP - Multidisciplinary Group Project,    
-MSc Robotics, Heriot-Watt Univeristy, Dubai.    
+ 
 
-Group Members:-   
+PAWfessionals, Group Members:-   
 Gowresh Rajagopal - H00413256   
+
 Nasir Nasir-Ameen -  H00416471
+
 Yehia AM Gomaa -  H00409854  
 
 Supervisor:-
